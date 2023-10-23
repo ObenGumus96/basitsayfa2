@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+    height: 750px;
+    width: 500px;
+    margin: auto;
+    background-color: gray;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 300px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+
+.icon1:hover{
+    background-color: #0866ff;
+}
+
+.icon2:hover{
+    background-color:#1d9bf0 ;
+}
+
+.icon3:hover{
+    background-color: #ff0000;
+}
+
+.icon4:hover{
+    background-color: white;
+}
+
+
+
+.face1{
+    padding-left: 16px;
+    padding-top: 16px;
+}
+
+
+
+.twit1{
+    padding-left: 16px;
+    padding-top: 16px;
+}
+
+.ytb1{
+    padding-left: 15px;
+    padding-top: 16px;
+}
+
+.tik1{
+    padding-left: 17px;
+    padding-top: 16px;
+}
+
+.foto{
+    width: 460px;
+    height: 275px;
+    margin-left: 18px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+.paragraf{
+    text-align: center;
+    margin-top: 20px;
+}
+
